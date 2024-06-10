@@ -10,4 +10,6 @@ Currently, two official plugins are available:
 =======
 # FE-Catur
 Frontend Tugas semester 4 Catur jawa,dibuat dengan React Tailwimd AOS
+preview: https://fe-catur.vercel.app/
+
 >>>>>>> 3334f0e407db5a69075dcbfeb706260866991bee
